@@ -54,7 +54,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "lodash": "^3.9.1"
+    "object-assign": "^3.0.0"
   },
   "peerDependencies": {
     "react": ">=0.12.0"
